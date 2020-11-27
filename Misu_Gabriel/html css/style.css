@@ -1,0 +1,108 @@
+#myDiv {
+    background:rgb(82, 86, 89);
+  border: thick solid black;
+   color:#c2c2d6;
+text-align:center;
+font-style:italic;
+}
+
+#div2 {
+background:#b3b3ff;
+ border: 3px solid black;
+
+}
+
+
+#div3 { 
+background:#669999;
+  border: 5px thick solid purple;
+   color:#c2c2d6;
+padding; 2px 50px 25px 20px;
+width= 400px;
+height= 400px;
+}
+
+
+img{
+vertical-align: `;
+border:2px solid black  #ddd;
+ display: block;
+ margin-right: 100px;
+	  margin-left: 100px;}
+  widtht: 25%;
+  height 25%;
+}
+
+
+#poza{
+height: 50%;
+width: 50%
+
+
+
+
+}
+
+
+
+
+
+#ceva{
+color:purple;
+ text-decoration: underline;
+  font-size: 40px;
+  }
+
+
+#dot{
+color:black;
+text-align:right;
+ 
+}
+
+
+
+
+
+a:link {
+  color:yellow;
+  background-color: transparent;
+  text-decoration: none;
+  vertical-align: right;
+   
+}
+a:visited {
+  color:yellow;
+  background-color: transparent;
+  text-decoration: none;
+vertical-align: right;
+}
+a:hover {
+  color:yellow;
+  background-color: yellow;
+  text-decoration: underline;
+ vertical-align: right;
+}
+ a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+  vertical-align: right;
+} 
+  
+table, th, td {
+background-color: #f2f2f2;
+  border: 1px solid orange;
+
+}
+table {
+ justify-content: center;  
+  table-layout: fixed;
+  width: 50%;
+  margin:auto;
+
+}
+  
+th {
+  text-align: center;
+}
